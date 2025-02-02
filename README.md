@@ -47,10 +47,10 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1]('./campusnav1.png')
+![Screenshot1](./campusnav1.png)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](Add screenshot 2 here wit)
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
