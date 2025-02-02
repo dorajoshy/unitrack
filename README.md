@@ -1,26 +1,26 @@
-# [Project Name] 🎯
+# [UNITRACK] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [THE INNOVATORS]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Dora Joshy] - [Amal Jyothi College of Engineering]
+- Member 2: [Aleena Anna Chacko] - [Amal Jyothi College of Engineering]
 - Member 3: [Name] - [College]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[file:///C:/Users/lenovo/Desktop/campusnav/sample.html]
 
 ### Project Description
 [2-3 lines about what your project does]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[Difficult in finding locations inside the campus]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[creating website]
 
 ## Technical Details
 ### Technologies/Components Used
@@ -47,7 +47,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1]('./campusnav1.png')
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
